@@ -6,7 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
-
+import Resume from "./resume.pdf";
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -25,13 +25,12 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-
-
-
+import CompanyLogo from "../assets/companyImage.jpg";
 
 import usablity from "./usablity.png";
 import ecommerce from "./ecommerce.png";
 import music from "./music.png";
+import DSP from "../assets/dsp.jpg";
 
 export {
   logo,
@@ -59,10 +58,10 @@ export {
   shopify,
   starbucks,
   tesla,
-
- 
-
   usablity,
   ecommerce,
-  music
+  music,
+  CompanyLogo,
+  DSP,
+  Resume,
 };

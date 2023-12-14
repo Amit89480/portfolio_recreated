@@ -19,13 +19,12 @@ import {
   starbucks,
   tesla,
   shopify,
- 
- 
- 
   threejs,
   ecommerce,
   usablity,
-  music
+  music,
+  CompanyLogo,
+  DSP,
 } from "../assets";
 
 export const navLinks = [
@@ -40,6 +39,10 @@ export const navLinks = [
   {
     id: "contact",
     title: "Contact",
+  },
+  {
+    id: "resume",
+    title: "Resume",
   },
 ];
 
@@ -113,16 +116,33 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Full stack Developer",
-    company_name: "Code Clause",
-    icon: shopify,
+    title: "Mern Stack Developer",
+    company_name: "Geeksynergy Technologies Pvt. Ltd.",
+    icon: CompanyLogo,
     iconBg: "#E6DEDD",
-    date: "Feb 2023 - Apr-2023",
+    date: "April 2023 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
 
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Integrating frontend and backend aspects of the web application.",
+      "Integrating APIS for development of web application.",
+    ],
+  },
+  {
+    title: "Developer Intern",
+    company_name: "Alloy Steel Plant, Inc.",
+    icon: DSP,
+    iconBg: "#E6DEDD",
+    date: "July 2022 - August-2022",
+    points: [
+      "Developing and maintaining web applications using React.js and other related technologies.",
+
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Worked in backend language which was c# and sql server.",
     ],
   },
 ];
@@ -144,7 +164,6 @@ const testimonials = [
     company: "wipro",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
- 
 ];
 
 const projects = [
