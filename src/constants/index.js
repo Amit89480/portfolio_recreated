@@ -116,19 +116,27 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Mern Stack Developer",
+    title: "Full Stack Developer and Mobile Application Developer",
     company_name: "Geeksynergy Technologies Pvt. Ltd.",
     icon: CompanyLogo,
     iconBg: "#E6DEDD",
     date: "April 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "1. Engineered sophisticated user interfaces utilizing advanced frontend technologies such as React Native, React.js, and Fluent UI, ensuring a seamless and intuitive user experience across mobile and web platforms.",
 
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-      "Integrating frontend and backend aspects of the web application.",
-      "Integrating APIS for development of web application.",
+      "2. Architected robust backend systems leveraging MongoDB for efficient data storage and retrieval, implementing complex data models and optimizing database queries for scalability and performance.",
+
+      "3. Orchestrated AWS cloud infrastructure, including EC2, S3, Lambda, and API Gateway, to deploy and scale applications securely and efficiently, while implementing best practices for fault tolerance and disaster recovery.",
+
+      "4. Integrated real-time communication capabilities using Socket.IO, enabling seamless and interactive experiences for users through features like live chat, notifications, and collaborative editing.",
+
+      "5. Implemented Cloudflare's edge computing solutions to optimize content delivery and application performance, utilizing features such as Workers and Workers KV to execute code at the edge and cache dynamic content.",
+
+      "6. Designed and developed mobile applications with React Native, leveraging native device capabilities and optimizing performance for both iOS and Android platforms.",
+
+      "7. Employed advanced CSS frameworks such as Tailwind CSS and Bootstrap to streamline frontend development, ensuring consistent and responsive designs across devices and screen sizes.",
+
+      "8. Led cross-functional teams in the agile development process, utilizing CI/CD pipelines and automated testing frameworks to deliver high-quality software at a rapid pace, while adhering to industry best practices and standards.",
     ],
   },
   {
@@ -138,11 +146,11 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "July 2022 - August-2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "1. Developing and maintaining web applications using React.js and other related technologies.",
 
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-      "Worked in backend language which was c# and sql server.",
+      "2. Implementing responsive design and ensuring cross-browser compatibility.",
+      "3. Participating in code reviews and providing constructive feedback to other developers.",
+      "4. Worked in backend language which was c# and sql server.",
     ],
   },
 ];
